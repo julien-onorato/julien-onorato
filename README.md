@@ -16,4 +16,3 @@
 <a href="https://linkedin.com/in/julien-onorato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-onorato" height="30" width="40" /></a>
 <a href="https://discord.gg/jul.ien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jul.ien" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julien-onorato&" alt="julien-onorato" /></p>
