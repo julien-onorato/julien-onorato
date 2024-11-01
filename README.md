@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
-<h3 align="center">A passionate developer from France enthusiastic about many technologies</h3>
+<h3 align="center">A French developer with a passion for a wide range of technologies</h3>
 
 - 🔭 I’m currently working on [gigster](https://github.com/julien-onorato/gigster-client)
 
