@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **iOS Development**
 
-- 📫 How to reach me **julien.onorato@gmail.com**
+- 📫 Reach me at **julien.onorato@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
