@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">A French developer with a passion for a wide range of technologies</h3>
 
-- 🔭 I’m currently working on [gigster](https://github.com/julien-onorato/gigster-client)
+- 🔭 I’m currently working on [ScannerKit](https://github.com/julien-onorato/ScannerKit)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning new things about **Swift**
 
 - 👯 I’m looking to collaborate on **open source projects in Swift**
 
